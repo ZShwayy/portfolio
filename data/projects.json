@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Separate Ship Returns Analysis",
+    "category": "Analytics",
+    "description": "Analyzed $29.27M in year-to-date returns at Williams-Sonoma, examining return reasons, SKUs, distribution centers, regions, and customer notes. Produced leadership-ready visuals and a 30\u201360\u201390 day action plan.",
+    "technologies": [
+      "Excel",
+      "PivotTables",
+      "Airtable",
+      "Data Visualization"
+    ]
+  },
+  {
+    "title": "Supply Chain Request Ticketing System",
+    "category": "Process Improvement",
+    "description": "Designed a centralized request tracking approach during my United Engines internship using Google Forms and Power BI to improve visibility across Planning, Procurement, and Product Coordination.",
+    "technologies": [
+      "Power BI",
+      "Google Forms",
+      "Workflow Design"
+    ]
+  },
+  {
+    "title": "Purchasing & Demand Forecast Dashboards",
+    "category": "Analytics",
+    "description": "Built reporting and demand-forecasting dashboards at United Engines to summarize purchasing trends and supplier performance for management decisions.",
+    "technologies": [
+      "Power BI",
+      "Excel",
+      "Forecasting",
+      "Oracle"
+    ]
+  },
+  {
+    "title": "Automotive Inventory & Margin Management",
+    "category": "Operations",
+    "description": "Coordinated vehicle sourcing, acquisition costs, reconditioning, pricing, and fulfillment for a dealership handling more than 75 vehicle purchases and sales.",
+    "technologies": [
+      "Inventory Management",
+      "Vendor Coordination",
+      "Pricing Analysis"
+    ]
+  },
+  {
+    "title": "Interactive Personal Portfolio Website",
+    "category": "Web",
+    "description": "Built this multi-page portfolio using responsive Bootstrap components, a JSON-based project catalog, JavaScript category filters, and a persistent light/dark mode.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "JSON"
+    ]
+  }
+]
