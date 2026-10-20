@@ -574,3 +574,10 @@ a {
         left: -28px
     }
 }
+
+
+/* Keep hidden elements invisible */
+.d-none {
+    display: none !important;
+}
+
